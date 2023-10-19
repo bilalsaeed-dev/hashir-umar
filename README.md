@@ -41,12 +41,12 @@
 
 ### Cloud Deployment
 
+![aws](https://img.shields.io/badge/aws-ffba00?style=for-the-badge&logo=aws&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)
-![terraform](https://img.shields.io/badge/terraform-7740B6?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Design Tools
 
@@ -57,6 +57,10 @@
 
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+## Cloud Automation
+
+![terraform](https://img.shields.io/badge/terraform-7740B6?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 📈 Stats
 
